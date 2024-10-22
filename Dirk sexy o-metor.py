@@ -8,3 +8,9 @@ while not sexy_dirk:
         break
 #I was here
 print("hello")
+
+rawr = input("so do you think master Dirk is sexy? /n(Y \ N)")
+if rawr.lower == y:
+    print("Yay good boy")
+else:
+    print("bad boy")
