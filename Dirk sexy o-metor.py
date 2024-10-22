@@ -6,3 +6,4 @@ while not sexy_dirk:
         sexy_time += 1
     else:
         break
+#I was here
