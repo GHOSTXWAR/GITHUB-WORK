@@ -6,8 +6,5 @@ while not sexy_dirk:
         sexy_time += 1
     else:
         break
-<<<<<<< Updated upstream
 #I was here
-=======
 print("hello")
->>>>>>> Stashed changes
